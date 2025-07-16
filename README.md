@@ -30,10 +30,17 @@ A simple yet elegant real-time digital clock built with HTML, CSS, and JavaScrip
    ```bash
    git clone https://github.com/mayuresh378/clock-js.git
    cd clock-js
+📋 How to Use
+Clone this repository
+
+bash
+Copy
+Edit
+git clone https://github.com/mayuresh378/clock-js.git
+cd clock-js
 Open in Browser
 
-Double-click index.html or drag into your browser.
-
+Double-click index.html or drag it into any modern browser (Chrome, Firefox, Edge, etc.)
 
 📈 Future Enhancements
 ⏲️ Add stopwatch and timer
@@ -46,17 +53,25 @@ Double-click index.html or drag into your browser.
 
 📲 Convert to Progressive Web App (PWA)
 
-
 🤝 Contributing
 Contributions are welcome!
 
 Fork this repository
 
-Create a new branch (feature/your-feature)
+Create a branch (feature/your-feature)
 
 Commit your changes
 
-Open a pull request
+Open a Pull Request
+
+📄 License
+Licensed under the MIT License.
+See the LICENSE file for full details.
+
+👨‍💻 Author
+Mayuresh Naik
+📧 naikmayuresh6@gmail.com
+🌐 GitHub Profile
 
 
 
