@@ -26,60 +26,10 @@ A simple yet elegant real-time digital clock built with HTML, CSS, and JavaScrip
 
 ## 📋 How to Use
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/mayuresh378/clock-js.git
-   cd clock-js
-📋 How to Use
-Clone this repository
-
-bash
-Copy
-Edit
-git clone https://github.com/mayuresh378/clock-js.git
-cd clock-js
-Open in Browser
-
-Double-click index.html or drag it into any modern browser (Chrome, Firefox, Edge, etc.)
-
-📈 Future Enhancements
-⏲️ Add stopwatch and timer
-
-🔔 Alarm with sound
-
-🌐 Support for multiple timezones
-
-📅 Add date and calendar view
-
-📲 Convert to Progressive Web App (PWA)
-
-🤝 Contributing
-Contributions are welcome!
-
-Fork this repository
-
-Create a branch (feature/your-feature)
-
-Commit your changes
-
-Open a Pull Request
-
-📄 License
-Licensed under the MIT License.
-See the LICENSE file for full details.
-
-👨‍💻 Author
-Mayuresh Naik
-📧 naikmayuresh6@gmail.com
-🌐 GitHub Profile
-
-
-
-📄 License
-Licensed under the MIT License.
-See the LICENSE file for details.
-
-👨‍💻 Author
-Mayuresh Naik
-📧 naikmayuresh6@gmail.com
-🌐 GitHub Profile
+| Section                    | Description                                                                                                                                          |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔧 **Setup**               | Clone the repository:<br>`git clone https://github.com/mayuresh378/clock-js.git`<br>Navigate: `cd clock-js`<br>Run: Open `index.html` in any browser |
+| 🔮 **Future Enhancements** | - 🕒 Add stopwatch and timer<br>- 🔔 Alarm with sound<br>- 🌐 Timezone support<br>- 📅 Date & calendar view<br>- 📲 Convert to PWA                   |
+| 🤝 **Contributing**        | Contributions are welcome!<br>• Fork this repository<br>• Create a branch (`feature/your-feature`)<br>• Commit your changes<br>• Open a pull request |
+| 📄 **License**             | Licensed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.                                                                          |
+| 👨‍💻 **Author**           | **Mayuresh Naik**<br>📧 [naikmayuresh6@gmail.com](mailto:naikmayuresh6@gmail.com)<br>🌐 [GitHub Profile](https://github.com/mayuresh378)             |
