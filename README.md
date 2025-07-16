@@ -17,6 +17,7 @@ clock-js/
 │   └── favicon.ico         # App favicon
 ├── index.html              # Main clock page
 └── README.md               # Project info
+
 🚀 Features
 🕒 Live Digital Clock – Updates every second with current local time
 
@@ -30,6 +31,7 @@ clock-js/
 
 🔧 Modular Code – Easy to expand with stopwatch, alarms, and more
 
+
 🛠️ Tech Stack
 HTML5 – Semantic structure
 
@@ -39,35 +41,21 @@ JavaScript (ES6+) – Clock logic and interactivity
 
 (No frameworks or libraries used)
 
-📸 Preview
-Light Mode	Dark Mode
-
-(Replace the above image URLs with your actual screenshots if needed)
-
-📋 How to Use
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/mayuresh378/clock-js.git
-cd clock-js
-Open the app
-
-Just double-click index.html to run locally.
-
-Or visit the Live Demo
 
 🧩 Customization
 🎨 To change font or colors: Edit style.css
 
 🌙 To set default theme: Modify theme logic in theme.js
 
+
+
 🔁 To add new features:
 
 Stopwatch: Add timer logic in js/
 
 Alarm: Use JavaScript setTimeout() with audio
+
+
 
 📱 Responsiveness
 Fully responsive for:
@@ -76,6 +64,7 @@ Device	Status
 Desktop	✅
 Tablet	✅
 Mobile	✅
+
 
 📈 Planned Enhancements
 ✅ Stopwatch mode
@@ -92,10 +81,13 @@ Mobile	✅
 
 📲 Convert to PWA
 
+
 🐛 Known Issues
 None currently known
 
 (Open an issue if you find one!)
+
+
 
 🤝 Contributing
 Want to contribute?
@@ -108,9 +100,11 @@ Commit your changes
 
 Submit a pull request
 
+
 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
+
 
 👤 Author
 Mayuresh Naik
