@@ -13,7 +13,20 @@ A simple yet elegant real-time digital clock built with HTML, CSS, and JavaScrip
 - **Minimalistic Design:** Clean layout with modern fonts and colors
 - **Lightweight:** No frameworks, no dependencies
 
+ ## 📁 Project Structure
+
 ---
+| File/Folder              | Description                             |
+| ------------------------ | --------------------------------------- |
+| `clock-js/`              | Root project directory                  |
+| ├── `css/style.css`      | Styling for clock layout, fonts, themes |
+| ├── `js/script.js`       | JavaScript for real-time clock updates  |
+| ├── `js/theme.js`        | Handles light/dark theme switching      |
+| ├── `assets/favicon.ico` | Favicon for the web page                |
+| ├── `assets/preview.png` | Optional preview image/screenshot       |
+| ├── `index.html`         | Main HTML file for the web clock        |
+| └── `README.md`          | Project documentation (this file)       |
+
 
 ## 🛠️ Technologies Used
 
