@@ -1,113 +1,87 @@
-# ⌚ Web Clock – A Beautiful Real-Time Clock Built with JavaScript
-A sleek and modern digital clock built using HTML, CSS, and JavaScript. This responsive application updates every second in real time and features a clean UI, light/dark mode, and seamless performance. Hosted live on GitHub Pages.
+# ⌚ Clock JS – Real-Time Web Clock
 
-🔗 Live Demo: https://mayuresh378.github.io/clock-js/
+A simple yet elegant real-time digital clock built with HTML, CSS, and JavaScript. Supports theme switching, responsive layout, and a clean UI.
 
-📁 Project Structure
-bash
-Copy
-Edit
+🔗 **Live Demo:** [https://mayuresh378.github.io/clock-js/](https://mayuresh378.github.io/clock-js/)
+
+---
+
+## 📁 Project Structure
+
 clock-js/
 ├── css/
-│   └── style.css           # Styling for the clock interface
+│ └── style.css # Styling for clock, layout, and theme
 ├── js/
-│   ├── script.js           # Real-time clock logic
-│   └── theme.js            # Light/Dark mode toggling
+│ ├── script.js # Real-time clock functionality
+│ └── theme.js # Light/Dark mode toggle
 ├── assets/
-│   └── favicon.ico         # App favicon
-├── index.html              # Main clock page
-└── README.md               # Project info
+│ ├── favicon.ico # Tab icon
+│ └── preview.png # Preview image
+├── index.html # Main application file
+└── README.md # Project documentation
 
-🚀 Features
-🕒 Live Digital Clock – Updates every second with current local time
+yaml
+Copy
+Edit
 
-🌓 Dark/Light Mode – Toggle with persistent theme memory (via localStorage)
+---
 
-📱 Responsive Design – Works smoothly on all screen sizes
+## 🚀 Features
 
-🎯 Minimal UI – Clean and distraction-free user interface
+- **Real-Time Clock:** Displays current time and updates every second
+- **Dark/Light Mode:** Switch theme with persistent storage
+- **Responsive UI:** Works seamlessly on desktops, tablets, and mobiles
+- **Minimalistic Design:** Clean layout with modern fonts and colors
+- **Lightweight:** No frameworks, no dependencies
 
-⚡ Lightweight & Fast – No external dependencies or frameworks
+---
 
-🔧 Modular Code – Easy to expand with stopwatch, alarms, and more
+## 🛠️ Technologies Used
 
+- 🧱 **HTML5:** Markup structure  
+- 🎨 **CSS3:** Styling with transitions, variables  
+- ⚙️ **JavaScript (ES6+):** Logic and real-time updates  
+- 🌓 **LocalStorage API:** To save theme preference
 
-🛠️ Tech Stack
-HTML5 – Semantic structure
+---
 
-CSS3 – Styling with transitions & animations
+## 📋 How to Use
 
-JavaScript (ES6+) – Clock logic and interactivity
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/mayuresh378/clock-js.git
+   cd clock-js
+Open in Browser
 
-(No frameworks or libraries used)
+Double-click index.html or drag into your browser.
 
+📈 Future Enhancements
+⏲️ Add stopwatch and timer
 
-🧩 Customization
-🎨 To change font or colors: Edit style.css
+🔔 Alarm with sound
 
-🌙 To set default theme: Modify theme logic in theme.js
+🌐 Support for multiple timezones
 
+📅 Add date and calendar view
 
-
-🔁 To add new features:
-
-Stopwatch: Add timer logic in js/
-
-Alarm: Use JavaScript setTimeout() with audio
-
-
-
-📱 Responsiveness
-Fully responsive for:
-
-Device	Status
-Desktop	✅
-Tablet	✅
-Mobile	✅
-
-
-📈 Planned Enhancements
-✅ Stopwatch mode
-
-✅ Alarm with sound
-
-🌐 Multi-timezone support
-
-🧭 World clocks
-
-🔔 Notification alerts
-
-📅 Date display
-
-📲 Convert to PWA
-
-
-🐛 Known Issues
-None currently known
-
-(Open an issue if you find one!)
-
-
+📲 Convert to Progressive Web App (PWA)
 
 🤝 Contributing
-Want to contribute?
+Contributions are welcome!
 
-Fork this repo
+Fork this repository
 
-Create a branch (feature/your-feature)
+Create a new branch (feature/your-feature)
 
 Commit your changes
 
-Submit a pull request
-
+Open a pull request
 
 📄 License
-This project is licensed under the MIT License.
+Licensed under the MIT License.
 See the LICENSE file for details.
 
-
-👤 Author
+👨‍💻 Author
 Mayuresh Naik
 📧 naikmayuresh6@gmail.com
-🌐 GitHub
-
+🌐 GitHub Profile
