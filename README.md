@@ -4,27 +4,6 @@ A simple yet elegant real-time digital clock built with HTML, CSS, and JavaScrip
 
 🔗 **Live Demo:** [https://mayuresh378.github.io/clock-js/](https://mayuresh378.github.io/clock-js/)
 
----
-
-## 📁 Project Structure
-
-clock-js/
-├── css/
-│ └── style.css # Styling for clock, layout, and theme
-├── js/
-│ ├── script.js # Real-time clock functionality
-│ └── theme.js # Light/Dark mode toggle
-├── assets/
-│ ├── favicon.ico # Tab icon
-│ └── preview.png # Preview image
-├── index.html # Main application file
-└── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Features
 
@@ -55,6 +34,7 @@ Open in Browser
 
 Double-click index.html or drag into your browser.
 
+
 📈 Future Enhancements
 ⏲️ Add stopwatch and timer
 
@@ -66,6 +46,7 @@ Double-click index.html or drag into your browser.
 
 📲 Convert to Progressive Web App (PWA)
 
+
 🤝 Contributing
 Contributions are welcome!
 
@@ -76,6 +57,8 @@ Create a new branch (feature/your-feature)
 Commit your changes
 
 Open a pull request
+
+
 
 📄 License
 Licensed under the MIT License.
